@@ -10,7 +10,7 @@
 
 ## **📚 Projects 📚**
 - For my Visual Designer & Art Director portfolio, [click HERE](https://www.behance.net/harshalpanchal2000) 
-- For my data science portfolio, [click HERE](https://github.com/harshalpanchal2000)
+- For my data science portfolio, [click HERE](https://github.com/harshalpanchal2000/Data-Science-Portfolio)
 
 ## **💡 Career Highlights 💡**
 - *Art Director* at Smoosh
