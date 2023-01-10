@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Experienced Art Director & Visual Designer
 
-- 📊 Helped many companies in their Business Decision Making for 1.5 years
+- 📊 Helped many companies in their Business Decision Making & brand identity for last 5 years
 
 - 📝 Ready to serve your company with the learnt skills.
 
