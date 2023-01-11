@@ -45,6 +45,15 @@ I believe that the best way to showcase skills is by doing and sharing your job 
   * [Analyze Data to Answer Question](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Analyze%20Data%20to%20Answer%20Questions%20(Google).pdf)
   * [Share Data Through the Art of Visualization](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Share%20Data%20Through%20the%20Art%20of%20Visualization%20(Google).pdf)
   * [Google Data Analytics Capstone Case Study](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Google%20Data%20Analytics%20Capstone%20Case%20Study.pdf)
+ * ### IBM Professional Certificate in Data Science
+   * [Introduction in Data Science](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Data%20Science%20(IBM).pdf)
+   * [Data Science Methodology](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Data%20Science%20Methodology%20(IBM).pdf)
+   * [Databases and SQL for Data Science with Python](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)
+   * [Python Project for Data Science](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Python%20Project%20for%20Data%20Science%20(IBM%20Certified).pdf)
+   * [Python for Data Science, AI & Development](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Python%20for%20Data%20Science%2C%20AI%20%26%20Development%20(IBM).pdf)
+   * [Tools for Data Science](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Tools%20for%20Data%20Science%20(IBM).pdf)
+  
+   
 ## **⚡️ Currently ⚡️**
 - Landed in Canada in 2022
 - Ready to step my foot in Canada Data Analysis & Creative Industry with my Indian Work Experience
