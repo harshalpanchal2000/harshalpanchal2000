@@ -35,7 +35,8 @@
 - ****Tools****: PhotoShop, Illustrator, Figma, Canva, InDesign
 - ****Skills****: Visual Designing, Crafting marketing content, building social media presence, Ad Strategies, UI/UX, social media marketing, crafting realistic mockups, brand identity, web designs, Art direction, Tik tok ads.
 
-
+## **👨🏼‍🎓 Certificates 👨🏼‍🎓 **
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
 ## **⚡️ Currently ⚡️**
 - Landed in Canada in 2022
 - Ready to step my foot in Canada Data Analysis & Creative Industry with my Indian Work Experience
