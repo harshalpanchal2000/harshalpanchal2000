@@ -37,7 +37,7 @@
 
 ## **👨🏼‍🎓 Certificates 👨🏼‍🎓 **
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
-* [Google Professional Certification in Data Analytics](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Google%20Professional%20Certification%20in%20Data%20Analytics.pdf)
+* ### [Google Professional Certification in Data Analytics](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Google%20Professional%20Certification%20in%20Data%20Analytics.pdf)
   * [Foundations in Data](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Foundations%20(Google).pdf)
   * [Ask Questions to Make Data-Driven Decisions](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions%20(Google).pdf)
   * [Prepare Data for Exploration](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Prepare%20Data%20for%20Exploration%20(Google).pdf)
