@@ -37,6 +37,8 @@
 
 ## **👨🏼‍🎓 Certificates 👨🏼‍🎓 **
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
+* [Google Data Analytics Course](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Google%20Professional%20Certification%20in%20Data%20Analytics.pdf))
+  * Foundations
 ## **⚡️ Currently ⚡️**
 - Landed in Canada in 2022
 - Ready to step my foot in Canada Data Analysis & Creative Industry with my Indian Work Experience
