@@ -12,7 +12,7 @@
 - For my visual designer & art director portfolio, [Click Here](https://www.behance.net/harshalpanchal2000) 
 - For my data science portfolio, [Click Here](https://github.com/harshalpanchal2000/Data-Science-Portfolio)
 
-## **✨ Career Highlights ✨**
+## **💼 Career Highlights 💼**
 - *Art Director* at Smoosh
 - *Visual Designer* at Workplay Digital
 - *Creatives Designer* at Thar Technologies
