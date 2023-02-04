@@ -14,11 +14,11 @@
 
 ## **💼 Career Highlights 💼**
 - *Art Director* at Smoosh
+- *Data Scientist Intern* at Reach Technologies
+- *Data Scientist Summer Intern* at BrainyBeam Ltd
 - *Visual Designer* at Workplay Digital
 - *Creatives Designer* at Thar Technologies
 - *Social Media Manager & Copywriter* at JuteCo. 
-- *Data Scientist Intern* at Reach Technologies
-- *Data Scientist Summer Intern* at BrainyBeam Ltd
 - *Marketing Copywriter* at thedesignershirt
 - *CEO & Founder* at thedesignershirt, BlanketSpace (Startups)
 - *Social Media Manager* at Medcafe Solutions
