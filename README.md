@@ -11,8 +11,9 @@
 - 📝 Ready to serve your company with the learnt data science skills.
 
 ## **📚 Projects 📚**
-- For my visual designer & art director portfolio, [Click Here](https://www.behance.net/harshalpanchal2000) 
 - For my data science portfolio, [Click Here](https://github.com/harshalpanchal2000/Data-Science-Portfolio)
+- For my visual designer & art director portfolio, [Click Here](https://www.behance.net/harshalpanchal2000) 
+
 
 ## **💼 Career Highlights 💼**
 - *Art Director* at Smoosh
