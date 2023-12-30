@@ -1,4 +1,4 @@
-# I'm Harshal Panchal, a Visual Designer, Art Director and a Data Analyst from Canada. 
+ # I'm Harshal Panchal, a Visual Designer, Art Director and a Data Analyst from Canada. 
 
 ## **✨ About Me in 30 Secs ✨**
 
@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 Experienced Art Director & Visual Designer
 
-- 📊 Helped many companies in their business decision making & brand identity for last 5 years!
+- 📊 Helped many companies in their business decision-making & brand identity for the last 5 years!
 
 - 📝 Ready to serve your company with the learnt data science skills.
 
@@ -16,9 +16,10 @@
 
 
 ## **💼 Career Highlights 💼**
-- *Art Director* at Smoosh
+- *Junior Data Analyst* at Orange Technolab Middleast FZE
 - *Data Scientist Intern* at Reach Technologies
 - *Data Scientist Summer Intern* at BrainyBeam Ltd
+- *Art Director* at Smoosh
 - *Visual Designer* at Workplay Digital
 - *Creatives Designer* at Thar Technologies
 - *Social Media Manager & Copywriter* at JuteCo. 
@@ -31,12 +32,12 @@
 ## **💡 Core Competencies 💡**
 
 *In Data Science*
-- Tools: SQL, Python, Tableau, Excel
+- Tools: SQL, Python, Tableau, Excel, Docker, AWS(S3), Apache Beam, 
 - Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, Relational Databases, Dashboard Design and Development
 
 *In Creative Field*
 - ****Tools****: PhotoShop, Illustrator, Figma, Canva, InDesign
-- ****Skills****: Visual Designing, Crafting marketing content, building social media presence, Ad Strategies, UI/UX, social media marketing, crafting realistic mockups, brand identity, web designs, Art direction, Tik tok ads.
+- ****Skills****: Visual Designing, Crafting marketing content, building social media presence, Ad Strategies, UI/UX, social media marketing, crafting realistic mockups, brand identity, web designs, Art direction, TikTok ads.
 
 ## **👨🏼‍🎓 Certificates 👨🏼‍🎓 **
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
