@@ -1,4 +1,4 @@
- # I'm Harshal Panchal, a Visual Designer, Art Director and a Data Analyst from Canada. 
+ # I'm Harshal Panchal, a Data Analyst, Machine Learning Engineer and Former Art Director from Canada. 
 
 ## **✨ About Me in 30 Secs ✨**
 
