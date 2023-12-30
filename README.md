@@ -60,10 +60,12 @@ I believe that the best way to showcase skills is by doing and sharing your job 
    
 ## **⚡️ Currently ⚡️**
 - Landed in Canada in 2022
-- Ready to step my foot in Canada Data Analysis & Creative Industry with my Indian Work Experience
+- Ready to step foot in Canadian Data Analysis & Creative Industry with my Indian Work Experience
 
 ## **🙌🏻 Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/harshal-panchal/)
-
+- [GitHub](https://www.linkedin.com/in/harshal-panchal/)
+- [Kaggle](https://www.kaggle.com/harshalpanchal)
+- [Medium](https://medium.com/@harshalpanchal2000)
 - [Behance](https://www.behance.net/harshalpanchal2000)
