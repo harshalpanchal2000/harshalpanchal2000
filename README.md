@@ -51,13 +51,13 @@ I believe that the best way to showcase skills is by doing and sharing your job 
   
 
 ## **🙌🏻 Connect with Me**
-**Website** -> [itsmeharshal.com](https://www.itsmeharshal.com) \
-**Email:** -> [contact@itsmeharshal.com](mailto:contact@itsmeharshal.com)  \
-**LinkedIn:** -> [Harshal Panchal](https://www.linkedin.com/in/harshal-panchal/)\
-**GitHub:** -> [harshalpanchal2000](https://github.com/harshal-panchal/)\
-**Kaggle** -> [Harshal Panchal](https://www.kaggle.com/harshalpanchal)\
-**Medium:** -> [DataVenture](https://medium.com/@harshalpanchal2000)\
-**Behance** -> [Harshal Panchal](https://www.behance.net/harshalpanchal2000)
+- **Website** -> [itsmeharshal.com](https://www.itsmeharshal.com) 
+- **Email:** -> [contact@itsmeharshal.com](mailto:contact@itsmeharshal.com)  
+- **LinkedIn:** -> [Harshal Panchal](https://www.linkedin.com/in/harshal-panchal/)
+- **GitHub:** -> [harshalpanchal2000](https://github.com/harshal-panchal/)
+- **Kaggle** -> [Harshal Panchal](https://www.kaggle.com/harshalpanchal)
+- **Medium:** -> [DataVenture](https://medium.com/@harshalpanchal2000)
+- **Behance** -> [Harshal Panchal](https://www.behance.net/harshalpanchal2000)
 
  ## ** 👨🏼‍🎓 Github Stats 👨🏼‍🎓**
   <img align="left" alt="Harshal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshalpanchal2000&show_icons=true&hide_border=true" />
