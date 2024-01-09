@@ -49,19 +49,15 @@ I believe that the best way to showcase skills is by doing and sharing your job 
    * [Python for Data Science, AI & Development](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Python%20for%20Data%20Science%2C%20AI%20%26%20Development%20(IBM).pdf)
    * [Tools for Data Science](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Certifications/Tools%20for%20Data%20Science%20(IBM).pdf)
   
-   
-## **⚡️ Currently ⚡️**
-- Landed in Canada in 2022
-- Ready to step foot in Canadian Data Analysis & Creative Industry with my Indian Work Experience
 
 ## **🙌🏻 Connect with Me**
-
-- [Email](mailto:contact@itsmeharshal.com) 
-- [LinkedIn](https://www.linkedin.com/in/harshal-panchal/)
-- [GitHub](https://www.linkedin.com/in/harshal-panchal/)
-- [Kaggle](https://www.kaggle.com/harshalpanchal)
-- [Medium](https://medium.com/@harshalpanchal2000)
-- [Behance](https://www.behance.net/harshalpanchal2000)
+**Website** -> [itsmeharshal.com](https://www.itsmeharshal.com) \
+**Email:** -> [contact@itsmeharshal.com](mailto:contact@itsmeharshal.com)  \
+**LinkedIn:** -> [Harshal Panchal](https://www.linkedin.com/in/harshal-panchal/)\
+**GitHub:** -> [harshalpanchal2000](https://github.com/harshal-panchal/)\
+**Kaggle** -> [Harshal Panchal](https://www.kaggle.com/harshalpanchal)\
+**Medium:** -> [DataVenture](https://medium.com/@harshalpanchal2000)\
+**Behance** -> [Harshal Panchal](https://www.behance.net/harshalpanchal2000)
 
  ## ** 👨🏼‍🎓 Github Stats 👨🏼‍🎓**
   <img align="left" alt="Harshal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshalpanchal2000&show_icons=true&hide_border=true" />
