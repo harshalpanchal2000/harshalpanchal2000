@@ -62,3 +62,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Kaggle](https://www.kaggle.com/harshalpanchal)
 - [Medium](https://medium.com/@harshalpanchal2000)
 - [Behance](https://www.behance.net/harshalpanchal2000)
+
+ ## ** 👨🏼‍🎓 Github Stats 👨🏼‍🎓**
+  <img align="left" alt="Harshal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshalpanchal2000&show_icons=true&hide_border=true" />
+
