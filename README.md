@@ -36,8 +36,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png?size=40" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]() 
-\
-\
+
+<br />
+<br />
 
 ## **💡 Technical Skills 💡**
 - **Languages & Databases**: Python, R, Javascript, SQL, MySQL, MongoDB, Oracle, PL/SQL, Apache Beam
