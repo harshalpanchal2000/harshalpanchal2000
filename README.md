@@ -4,12 +4,10 @@
 
 - Hi there! I'm Harshal Panchal, a data science master's student with a passion for problem-solving. I have spent over five years working in the creative industry as an art director and visual designer, and my background has given me a unique perspective on the field of data science. I am known for my keen eye for aesthetics and my ability to turn complex data into insights that are easy for anyone to understand. I believe that data should not only be accurate but also visually appealing, and I enjoy telling stories through my data sets.
 
-- 💼 Data Analyst with 2.5 years of experience.
-- 👩🏻‍💻 Experienced Art Director & Visual Designer.
-
-- 📊 Helped many companies in their business decision-making & brand identity for the last 5 years!
-
-- 📝 Ready to serve your company with the learnt data science skills.
+- 💼 Data Analyst & Python Developer with 3 years of hands-on industry experience.
+- 👩🏻‍💻 Experienced Art Director & Visual Designer with 5 years of experience.
+- 📊 Helped many companies in their business decision-making & brand identity for 5 years!
+- 📝 Ready to serve your company with my data science skills.
 
 ## **📚 Projects 📚**
 - For my data science portfolio, [Click Here](https://github.com/harshalpanchal2000/Data-Science-Portfolio)
@@ -17,28 +15,20 @@
 
 
 ## **💼 Career Highlights 💼**
-- *Junior Data Analyst* at Orange Technolab Middleast FZE
-- *Data Scientist Intern* at Reach Technologies
-- *Data Scientist Summer Intern* at BrainyBeam Ltd
-- *Art Director* at Smoosh
-- *Visual Designer* at Workplay Digital
-- *Creatives Designer* at Thar Technologies
-- *Social Media Manager & Copywriter* at JuteCo. 
-- *Marketing Copywriter* at thedesignershirt
-- *CEO & Founder* at thedesignershirt, BlanketSpace (Startups)
-- *Social Media Manager* at Medcafe Solutions
-- *Designer/Copywriter/Social Media Manager/UI & UX* at Various Companies (5 years)
+- **Jr. Financial Analyst** - Orange Technolab Middle East FZE, Dubai (Feb 2019 - Aug 2021)
+- **Data Scientist and Python Developer Intern** - Reach Technologies, India (Feb 2022 - Dec 2022)
+- **Financial Data Analyst Summer Intern** - BrainyBeam, India (Nov 2021 - Jan 2022)
+- **Art Director / Visual Designer/ Creative Head** - Various Companies in Dubai, India, Nigeria, Thailand (2018 - 2023)
 
+## **💡 Technical Skills 💡**
+- **Languages & Databases**: Python, R, Javascript, SQL, MySQL, MongoDB, Oracle, PL/SQL, Apache Beam
+- **Frameworks**: Scikit-learn, TensorFlow, Pandas, NLTK, NumPy, Keras, Matplotlib, PyTorch
+- **MLOps & Cloud Services**: AWS (S3), Azure, Docker, GitHub, Slack, Docker, Git, GCP
+- **IDE & Tools**: VScode, Pycharm, Tableau, Rstudio, Jupyter Notebook, Google Colab, GCP, Power BI, Looker
+- **Specialized Knowledge**: LLMs models, Hugging Face integration, ML with CI/CD Pipelines, Deep Learning Models
 
-## **💡 Core Competencies 💡**
+  
 
-*In Data Science*
-- Tools: SQL, Python, Tableau, Excel, Docker, AWS(S3), Apache Beam, 
-- Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, Relational Databases, Dashboard Design and Development
-
-*In Creative Field*
-- ****Tools****: PhotoShop, Illustrator, Figma, Canva, InDesign
-- ****Skills****: Visual Designing, Crafting marketing content, building social media presence, Ad Strategies, UI/UX, social media marketing, crafting realistic mockups, brand identity, web designs, Art direction, TikTok ads.
 
 ## **👨🏼‍🎓 Certificates 👨🏼‍🎓 **
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
@@ -65,6 +55,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 
 ## **🙌🏻 Connect with Me**
 
+- [Email](mailto:contact@itsmeharshal.com) 
 - [LinkedIn](https://www.linkedin.com/in/harshal-panchal/)
 - [GitHub](https://www.linkedin.com/in/harshal-panchal/)
 - [Kaggle](https://www.kaggle.com/harshalpanchal)
