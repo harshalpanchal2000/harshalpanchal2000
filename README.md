@@ -20,6 +20,25 @@
 - **Financial Data Analyst Summer Intern** - BrainyBeam, India (Nov 2021 - Jan 2022)
 - **Art Director / Visual Designer/ Creative Head** - Various Companies in Dubai, India, Nigeria, Thailand (2018 - 2023)
 
+## **🛠️ Tech Tools 🛠️**
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
+[<img align="left" alt="R Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png?size=40" />]()
+[<img align="left" alt="Tableau" width="26px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" />]()
+[<img align="left" alt="PowerBI" width="26px" src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/Hero_BPI_icon1.png" />]()
+[<img align="left" alt="Excel" width="26px" src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/Icon-Excel-25x25.png" />]()
+[<img align="left" alt="Google Cloud" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" />]()
+[<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/225px-Amazon_Web_Services_Logo.svg.png" />]()
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
+[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png?size=40" />]()
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]() 
+\
+\
+
 ## **💡 Technical Skills 💡**
 - **Languages & Databases**: Python, R, Javascript, SQL, MySQL, MongoDB, Oracle, PL/SQL, Apache Beam
 - **Frameworks**: Scikit-learn, TensorFlow, Pandas, NLTK, NumPy, Keras, Matplotlib, PyTorch
