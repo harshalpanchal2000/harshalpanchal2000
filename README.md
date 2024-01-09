@@ -27,8 +27,9 @@
 - **IDE & Tools**: VScode, Pycharm, Tableau, Rstudio, Jupyter Notebook, Google Colab, GCP, Power BI, Looker
 - **Specialized Knowledge**: LLMs models, Hugging Face integration, ML with CI/CD Pipelines, Deep Learning Models
 
-  
-
+## **🎓 Education 🎓**
+- **Masters in Applied Modelling & Quantitative Methods in Big Data Analytics**, Trent University -> GPA: 3.90/4.00 (Present)
+- **Bachelors in Information Technology**, Gujarat Technical University -> GPA: 3.78/4.00
 
 ## **👨🏼‍🎓 Certificates 👨🏼‍🎓 **
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
