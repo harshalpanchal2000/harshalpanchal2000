@@ -2,7 +2,7 @@
 
 ## **✨ About Me in 30 Secs ✨**
 
-- Hi there! I'm Harshal Panchal, a data science master's student with a passion for problem-solving. I have spent over five years working in the creative industry as an art director and visual designer, and my background has given me a unique perspective on the field of data science. I am known for my keen eye for aesthetics and my ability to turn complex data into insights that are easy for anyone to understand. I believe that data should not only be accurate but also visually appealing, and I enjoy telling stories through my data sets.
+- Hi there! I'm Harshal Panchal, a data science master's student with a passion for problem-solving. With 3 years of industry experience as a Data Analyst & Python developer. Also, I have spent over five years working in the creative industry as an art director and visual designer, and my background in creative field has given me a unique perspective on the field of data science. I am known for my keen eye for aesthetics and my ability to turn complex data into insights that are easy for anyone to understand. I believe that data should not only be accurate but also visually appealing, and I enjoy telling stories through my data sets.
 
 - 💼 Data Analyst & Python Developer with 3 years of hands-on industry experience.
 - 👩🏻‍💻 Experienced Art Director & Visual Designer with 5 years of experience.
