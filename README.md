@@ -45,7 +45,7 @@
 - **Frameworks**: Scikit-learn, TensorFlow, Pandas, NLTK, NumPy, Keras, Matplotlib, PyTorch
 - **MLOps & Cloud Services**: AWS (S3), Azure, Docker, GitHub, Slack, Docker, Git, GCP
 - **IDE & Tools**: VScode, Pycharm, Tableau, Rstudio, Jupyter Notebook, Google Colab, GCP, Power BI, Looker
-- **Specialized Knowledge**: LLMs models, Hugging Face integration, ML with CI/CD Pipelines, Deep Learning Models
+- **Specialized Knowledge**: LLMs models, Hugging Face integration, ML with CI/CD Pipelines, Deep Learning Models, Machine Learning Models, hyperparameter tuning, feature engineering, exploratory data analysis.
 
 ## **🎓 Education 🎓**
 - **Masters in Applied Modelling & Quantitative Methods in Big Data Analytics**, Trent University -> GPA: 3.90/4.00 (Present)
