@@ -11,7 +11,12 @@
 
 ## **📚 Projects 📚**
 - For my data science portfolio, [Click Here](https://github.com/harshalpanchal2000/Data-Science-Portfolio)
-- For my visual designer & art director portfolio, [Click Here](https://www.behance.net/harshalpanchal2000) 
+- For my visual designer & art director portfolio, [Click Here](https://www.behance.net/harshalpanchal2000)
+
+## **👩🏻‍💻 2x Kaggle Expert 👩🏻‍💻**
+- **Notebook Expert** - Global Rank: 2439 out of 56,710 Data Scientists (Since Feb 2024)
+- **Discussion Expert** - Global Rank: 889 out of 30,502 Data Scientists (Since Jan 2024)
+- My Kaggle Profile [Click Here](https://www.kaggle.com/harshalpanchal)
 
 
 ## **💼 Career Highlights 💼**
@@ -39,6 +44,7 @@
 
 <br />
 <br />
+
 
 ## **💡 Technical Skills 💡**
 - **Languages & Databases**: Python, R, Javascript, SQL, MySQL, MongoDB, Oracle, PL/SQL, Apache Beam
